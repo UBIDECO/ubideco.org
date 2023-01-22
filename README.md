@@ -1,5 +1,6 @@
 ---
 description: Ubiquitous Deterministic Computing
+layout: landing
 ---
 
 # UBIDECO Institute
