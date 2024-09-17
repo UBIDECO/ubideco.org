@@ -1,3 +1,3 @@
 # Table of contents
 
-* [UBIDECO Institute](README.md)
+* [UBIDECO Labs](README.md)
